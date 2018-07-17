@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Layout</string>
+    <string name="tituloDescricao">Artigo sobre edição de imagens</string>
+    <string name="txtDataPost">12/08/2000</string>
+    <string name="idTextImage">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab, alias
+        aliquam assumenda blanditiis consequatur culpa, delectus dicta ducimus enim eos error
+        eveniet exercitationem facilis in itaque magnam natus, nesciunt nihil nisi optio placeat
+        provident quam quidem quisquam reiciendis sint soluta tempore ut voluptatem voluptatum.
+        Ab adipisci alias atque blanditiis cumque delectus dicta enim et facere illum inventore
+        iusto laboriosam magnam minima modi, molestias mollitia obcaecati officiis placeat quaerat
+        similique sint voluptates!
+    </string>
+    <string name="proximo">Proximo</string>
+    <string name="anterior">Anterior</string>
+    <string name="nameAutor">Márcio Heleno</string>
+    <string name="logoapp">LogoApp</string>
+
 </resources>
